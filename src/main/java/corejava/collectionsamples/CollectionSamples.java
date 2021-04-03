@@ -1,5 +1,6 @@
 package corejava.collectionsamples;
 
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.TreeMap;
@@ -9,6 +10,9 @@ public class CollectionSamples {
 		HashMap map ;
 		LinkedHashMap map2;
 		TreeMap map3;
+
+		Collections c;
+		java.lang.Math m;
 	}
 
 }
