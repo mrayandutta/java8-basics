@@ -1,4 +1,4 @@
-package corejava.cinheritance;
+package corejava.inheritance;
 
 public class Child extends Base{
 
